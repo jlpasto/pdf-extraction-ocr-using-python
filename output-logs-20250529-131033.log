@@ -1,0 +1,7 @@
+2025-05-29 13:10:33,730 - INFO - === PDF Processing Started ===
+2025-05-29 13:10:33,730 - INFO - Starting download from: https://example.com/your_large_file.pdf
+2025-05-29 13:10:34,447 - ERROR - Download failed: 404 Client Error: Not Found for url: https://example.com/your_large_file.pdf
+2025-05-29 13:10:34,447 - INFO - Start time: 2025-05-29 13:10:33.730311
+2025-05-29 13:10:34,448 - INFO - End time: 2025-05-29 13:10:34.447831
+2025-05-29 13:10:34,448 - INFO - Elapsed time: 0.72 seconds
+2025-05-29 13:10:34,448 - INFO - === PDF Processing Finished ===
